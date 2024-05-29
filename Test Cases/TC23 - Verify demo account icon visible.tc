@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC23 - Verify demo account icon visible</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37f9bb6c-1f08-453e-9ed5-a68671f2a8c0</testCaseGuid>
+</TestCaseEntity>

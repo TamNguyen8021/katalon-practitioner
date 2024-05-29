@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC20 - Verify demo login area visible</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c5c71a4-cce4-4631-afeb-d70980eaa1e6</testCaseGuid>
+</TestCaseEntity>

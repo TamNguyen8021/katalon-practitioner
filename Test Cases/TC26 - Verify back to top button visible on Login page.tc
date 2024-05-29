@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC26 - Verify back to top button visible on Login page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8108bbd-6da2-4a79-8432-61a4717dff51</testCaseGuid>
+</TestCaseEntity>

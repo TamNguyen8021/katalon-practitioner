@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1b094c6a-b0a7-4a48-a36e-1e0e555fa216</webElementGuid>
+      <webElementGuid>f4822f0e-e80e-46ff-9dd8-be6d8140cdb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-vertical-center</value>
-      <webElementGuid>72ff8653-1a91-4428-8da2-8ef5bbcafd73</webElementGuid>
+      <webElementGuid>4f9af372-1eb9-4488-b9aa-b1ce245838da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
         
         Make Appointment
     </value>
-      <webElementGuid>92aea74f-e763-46b9-94f3-8fccce078cb3</webElementGuid>
+      <webElementGuid>1a37cf01-7014-451e-b689-6062d4e25519</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top&quot;)/div[@class=&quot;text-vertical-center&quot;]</value>
-      <webElementGuid>4aff2094-59af-404c-963d-27932874faed</webElementGuid>
+      <webElementGuid>550fbd39-af1a-4eac-9e21-71f35b1d25ac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//header[@id='top']/div</value>
-      <webElementGuid>4c1051c7-245d-4cd0-b39f-5ecaf5fad64f</webElementGuid>
+      <webElementGuid>ca4880f3-d9f3-4e2b-a52d-556dda1cbfa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[1]</value>
-      <webElementGuid>585c1018-b3ca-41ef-bd4f-0ee293ec3f94</webElementGuid>
+      <webElementGuid>4b1ed39a-2afb-4e77-af8d-bd16ee72cf4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[1]</value>
-      <webElementGuid>79fe2476-526e-4ae7-a221-fec713e35375</webElementGuid>
+      <webElementGuid>ea5a6872-662f-439f-b0fb-538cc65341b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div</value>
-      <webElementGuid>8b1dd74a-c103-4a1a-9689-807061b649de</webElementGuid>
+      <webElementGuid>567a79c4-b024-4b98-a349-ac29afb01ca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
         
         Make Appointment
     ')]</value>
-      <webElementGuid>cdb5dd0d-9fc6-476f-9a84-c5d65b81d1e8</webElementGuid>
+      <webElementGuid>5f6f64d7-1dd4-422c-b732-8ae292d0edd0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

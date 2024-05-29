@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Verify appointment button clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab366478-a2a7-48cc-853d-74f1a482cd1e</testCaseGuid>
+</TestCaseEntity>

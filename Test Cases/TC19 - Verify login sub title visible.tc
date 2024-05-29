@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC19 - Verify login sub title visible</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>423b04f8-a68a-4380-9fae-7f4b4b7f0ba9</testCaseGuid>
+</TestCaseEntity>

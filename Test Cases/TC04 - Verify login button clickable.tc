@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - Verify login button clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>457dcc56-2275-4a6f-99f8-83ed2702e0e7</testCaseGuid>
+</TestCaseEntity>

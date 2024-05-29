@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08 - Verify hamburger menu clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f603b505-fc30-4860-84ac-b0bebfd51d86</testCaseGuid>
+</TestCaseEntity>

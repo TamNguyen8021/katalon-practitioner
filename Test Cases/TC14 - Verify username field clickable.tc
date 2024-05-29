@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC14 - Verify username field clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89a7a37e-5bc9-4149-bc6d-7385e6191039</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC22 - Verify demo account field visible</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bcb57873-57bc-4e6b-b93f-bb550563ea8f</testCaseGuid>
+</TestCaseEntity>

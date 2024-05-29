@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13 - Verify login form visible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a228ed8-2262-420d-87a5-742211ef8476</testCaseGuid>
+</TestCaseEntity>

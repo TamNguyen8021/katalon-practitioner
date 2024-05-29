@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05 - Verify back to top button clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70e8e142-e0cb-43a8-a83c-9f21edaae1e6</testCaseGuid>
+</TestCaseEntity>
