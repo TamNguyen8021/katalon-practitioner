@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Login&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7f518943-10f3-4bcf-ade5-cdd914c78b35</webElementGuid>
+      <webElementGuid>8b2a2e95-4967-4444-9993-746a90d88248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>profile.php#login</value>
-      <webElementGuid>405f085d-ddff-450d-aecb-95e03f7eda90</webElementGuid>
+      <webElementGuid>3ec0fe25-f672-4b34-b4c9-5f4ca0191e7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>$('#menu-close').click();</value>
-      <webElementGuid>1f43d374-709b-4c4e-9e4b-a6984e9f8ccb</webElementGuid>
+      <webElementGuid>c6692553-2e36-4a6a-ba9c-195e15c871b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>4e39c52e-ca2e-456f-a187-499453902592</webElementGuid>
+      <webElementGuid>426affbf-5d7b-4da9-b68b-671e6dd4e1d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[3]/a[1]</value>
-      <webElementGuid>68809816-a181-40c2-9b96-134f7582f05c</webElementGuid>
+      <webElementGuid>fd823833-ca12-4f5b-85ea-e18e875095c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[3]</value>
-      <webElementGuid>95be5ba2-e3af-4951-8ab4-4374e73b8f2a</webElementGuid>
+      <webElementGuid>940d7e34-673e-4db9-8c8f-77873b94c779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='sidebar-wrapper']/ul/li[3]/a</value>
-      <webElementGuid>1a083e53-b08d-4a17-a724-e6fb4b88b5a6</webElementGuid>
+      <webElementGuid>a296125b-5cf7-4d40-a02c-e0aaa248adce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>97084fea-7796-40db-a3d3-02636dc40fb2</webElementGuid>
+      <webElementGuid>7af7baac-d469-4c5c-9633-3ca8e7e3a29b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
-      <webElementGuid>fd983b65-e599-41e8-9ea7-215b8635a4d4</webElementGuid>
+      <webElementGuid>e1ee62df-6ff8-409d-8ae2-babe732ba3e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare'])[1]/following::a[2]</value>
-      <webElementGuid>0cb2fa83-2b00-453e-b2b6-4cc6a9cf3350</webElementGuid>
+      <webElementGuid>55d676d9-31a7-4184-afcc-6af7348e9e12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/preceding::a[1]</value>
-      <webElementGuid>72fcf551-24ce-45d7-aa1f-24521d5f34db</webElementGuid>
+      <webElementGuid>6b3101fd-d6d8-4b15-8ef5-5b6b7f71dd28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/preceding::a[1]</value>
-      <webElementGuid>b464ae15-b653-44f9-b4c1-9872c139618e</webElementGuid>
+      <webElementGuid>7ad0c9a9-867a-4588-b96a-fdb94a303d0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>1b08a5eb-599b-44cf-80bd-be26321f8aa2</webElementGuid>
+      <webElementGuid>d48ea559-2557-4d5e-a68b-0b2dfd2c1a27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +133,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'profile.php#login')]</value>
-      <webElementGuid>a4b4fd3d-f768-4515-bad2-c3dc49099799</webElementGuid>
+      <webElementGuid>519a4d72-1b87-42c2-a16d-28d31fb7aece</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>a4c5656e-b64a-42f1-a59f-48b5904cf5d2</webElementGuid>
+      <webElementGuid>7522939e-4cfe-450e-b5a9-2fb8ceec3621</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'profile.php#login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>75486cf6-9016-4f29-907f-0727190191ad</webElementGuid>
+      <webElementGuid>51b27987-fb1a-40a7-aa3a-d6995a272dd4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
